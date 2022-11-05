@@ -1,5 +1,5 @@
 # NetworkScanner
-- git clone https://github.com/Eraygokagac/NetworkScanner.git <
+- git clone https://github.com/Eraygokagac/NetworkScanner.git 
 
 - python NetworkScanner.py -i 10.1.2.0/24 
 
